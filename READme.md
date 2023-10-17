@@ -1,4 +1,4 @@
-#REST API with Express
+REST API with Express
 
 1. Unit testing
 2. Integration testing
